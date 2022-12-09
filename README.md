@@ -50,4 +50,3 @@ CONCLUSÃO: Foi concluido que nao sao todos os sites que voce consegue usar essa
 
 TELA COM USUARIO E SENHA DO FACEBOOK
 
-![senha e login capturado.png](Phishing%20para%20captura%20de%20senhas%20do%20Facebook%20a3caad86dc184f968a03e544a35e7aaa/senha_e_login_capturado.png)
