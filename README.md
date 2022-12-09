@@ -44,7 +44,7 @@ POSSIBLE PASSWORD FIELD FOUND: pass=(senha que voce digitou na pagina de login f
 
 *DIO.ME - FAIL
 
-*COLABORAREAR - FAIL
+*COLABORAREAD - FAIL
 
 CONCLUSÃO: Foi concluido que nao sao todos os sites que voce consegue usar essa tecnica
 
